@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.2.0",
+    "versionCode": "213",
+    "link": "https://cdn.magisk.cool/app/magisk_7.2.0.apk",
+    "note": "https://cdn.magisk.cool/log/magisk_log.md"
+  },
+  "magisk": {
+    "version": "19.2",
+    "versionCode": "19200",
+    "link": "https://cdn.magisk.cool/magisk/Magisk-19.2.zip",
+    "note": "https://cdn.magisk.cool/log/magisk_log.md",
+    "md5": "9503fc692e03d60cb8897ff2753c193f"
+  },
+  "uninstaller": {
+    "link": "https://cdn.magisk.cool/uninstaller/Magisk-uninstaller.zip"
+  },
+  "stub": {
+        "versionCode": "7",
+        "link": "https://magisk.cool/app/stub-release.apk"
+    }
+}
